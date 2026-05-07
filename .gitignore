@@ -1,7 +1,6 @@
 outputs/
 venv/
 recordings/
-documentation_and_results/
 data/
 .venvQwen/
 __pycache__/
