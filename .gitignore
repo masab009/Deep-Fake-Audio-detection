@@ -1,0 +1,10 @@
+outputs/
+venv/
+recordings/
+documentation_and_results/
+data/
+.venvQwen/
+__pycache__/
+figures/
+template.aux
+template.log
